@@ -1,0 +1,18 @@
+o conjunto não possui itens repetidos 
+o objetivo de um conjunto não são ordenados 
+os objetivos de um conjunto não são modificados mas podemos inserir ou excluir
+o tipo de uma variavel pode ser
+por atribuicão de um valor
+por conversão de tipos
+explicita
+implicita
+a funcão imput ()faz om que o valor obtido pelo teclado seja armazenado na variavel sempre como str
+a função print permite a saída de dados no munitor.
+____________________________________________________________________________________________________
+aula12
+objetos de diferentes tipos,a sintaxe adotada e
+função (parametros)
+listas armazenam multiplos objetos com uma única variavel
+cada objeto tem um indice, que indica posição dentro da lista
+o indice o refere-se ao primeiro elemento de uma lista 
+um elemento tio list e representado por cochetes
